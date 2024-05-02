@@ -8,12 +8,12 @@ En un mundo impulsado por datos creo firmemente que la clave del éxito reside e
 
 Con más de 20 años de experiencia en la industria manufacturera he desarrollado una profunda comprensión de los procesos operativos y las necesidades comerciales. Combinando esta experiencia con mi formación en Data Science y Business Intelligence, tengo la capacidad de:
 
-- *Identificar oportunidades ocultas.*
-- *Optimizar procesos.*
-- *Mejorar la toma de decisiones.*
-- *Generar un impacto positivo en los resultados.*
+- **_Identificar oportunidades ocultas._**
+- **_Optimizar procesos._**
+- **_Mejorar la toma de decisiones._**
+- **_Generar un impacto positivo en los resultados._**
 
-Me apasiona resolver problemas complejos y estoy constantemente buscando nuevos desafíos que me permitan **aportar valor significativo** y **ampliar mis conocimientos**.
+Me apasiona afrontar problemas complejos y estoy constantemente buscando nuevos desafíos que me permitan **aportar valor significativo** y **ampliar mis conocimientos**.
 
 Soy un profesional altamente motivado y adaptable, con excelentes habilidades de comunicación y trabajo en equipo.
 
@@ -21,19 +21,21 @@ Estoy seguro de que puedo ser un activo valioso para cualquier organización que
 
 ### Principales herramientas y habilidades técnicas:
 
-Python, Numpy, Pandas, Pyspark, ScikitLearn, Matplotlib, Seaborn, Streamlit, SQL, Power BI, DAX, Power Query, Looker, Tableau, MongoDB, Visual Studio Code, Colab, JSON, NLTK, JavaScript, D3.js, Chart.js, Git, FastApi, Render, Markdown, Machine Learning, ETL, EDA, implementación de KPIs, almacenamiento en la nube y estoy próximo a rendir la certificación DP-100 de Microsoft Azure.
+Python, Numpy, Pandas, Pyspark, ScikitLearn, TensorFlow, Matplotlib, Seaborn, Streamlit, SQL, Power BI, DAX, Power Query, Looker, Tableau, MongoDB, Visual Studio Code, Colab, JSON, NLTK, JavaScript, D3.js, Chart.js, Git, FastApi, Render, Markdown, Machine Learning, ETL, EDA, implementación de KPIs, almacenamiento en la nube y estoy próximo a rendir la certificación DP-100 de Microsoft Azure.
 
-<!--
-**ASzklar/ASzklar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Nivel de inglés de acuerdo a [EFSET.org](https://www.efset.org/es/):
 
-Here are some ideas to get you started:
+C1 Advanced
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Algunos de los proyectos en los que participé:
+
+- **_Análisis de datos de telecomunicaciones:_** Identifiqué tendencias y patrones en datos históricos de telecomunicaciones para ayudar a una empresa a optimizar sus redes y mejorar la calidad del servicio.  
+- **_Detección de fraudes en transacciones financieras:_** Desarrollé un modelo de machine learning para detectar transacciones fraudulentas en tiempo real, lo que ayudó a una institución financiera a prevenir pérdidas significativas.  
+- **_Sistema de recomendación para gastronomía:_** Implementé un sistema de recomendación personalizado para un restaurante, utilizando machine learning para sugerir platos a los clientes en función de sus preferencias y el historial de pedidos.  
+- **_Análisis de datos de encuestas:_** Analicé encuestas de satisfacción del cliente para identificar áreas de mejora y desarrollar estrategias para mejorar la experiencia del cliente.
+
+### Podés contactarme en:  
+[<img src="https://1000marcas.net/wp-content/uploads/2020/01/Logo-Linkedin-500x313.png" width="80" height="52">](https://www.linkedin.com/in/adrian-szklar/)   
+szklaradriandatos@gmail.com
+
+ 
