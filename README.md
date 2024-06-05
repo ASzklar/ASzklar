@@ -30,9 +30,10 @@ C1 Advanced
 ### Algunos de los proyectos en los que participé:
 
 - **_Análisis de datos de telecomunicaciones:_** Identifiqué tendencias y patrones en datos históricos de telecomunicaciones para sugerir estrategias de mejora en la calidad del servicio y en la rentabilidad. 
-- **_Detección de fraudes en transacciones financieras:_** Participé en las tareas de ETL, EDA y en el desarrollo de un modelo de machine learning para detectar transacciones fraudulentas en tiempo real.
+- **_Detección de fraudes en transacciones financieras:_** Participé en las tareas de ETL, EDA y en el desarrollo de un modelo de machine learning para detectar transacciones fraudulentas en tiempo real.  
 - **_Sistema de recomendación para gastronomía:_** Implementé un sistema de recomendación personalizado en el rubro gastronómico, utilizando machine learning para sugerir platos a los clientes en función de sus preferencias y el historial de pedidos.  
 - **_Análisis de datos de encuestas:_** Analicé encuestas de satisfacción del cliente para identificar áreas de mejora y desarrollar estrategias para mejorar la experiencia del cliente.
+- **_Datathón sobre prevención de bullying:_** Fui mentor del desafío de visualización y parte del staff organizativo del evento.
 
 ### Podés contactarme en:  
 [<img src="https://1000marcas.net/wp-content/uploads/2020/01/Logo-Linkedin-500x313.png" width="80" height="52">](https://www.linkedin.com/in/adrian-szklar/)   
