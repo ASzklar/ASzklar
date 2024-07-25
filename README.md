@@ -21,7 +21,7 @@ Estoy seguro de que puedo ser un activo valioso para cualquier organización que
 
 ### Principales herramientas y habilidades técnicas:
 
-Python, Numpy, Pandas, Pyspark, ScikitLearn, TensorFlow, Keras, LightGBM, XGBoost, Matplotlib, Seaborn, Streamlit, SQL, Power BI, DAX, Power Query, Looker, Tableau, MongoDB, Visual Studio Code, Colab, JSON, NLTK, JavaScript, D3.js, Chart.js, Git, FastApi, Render, Markdown, Machine Learning, ETL, EDA, implementación de KPIs, Scrum, almacenamiento en la nube y estoy próximo a rendir la certificación DP-100 de Microsoft Azure.
+Python, Numpy, Pandas, Pyspark, ScikitLearn, TensorFlow, Keras, LightGBM, XGBoost, Matplotlib, Seaborn, Streamlit, SQL, Power BI, DAX, Power Query, Looker, Tableau, MongoDB, Visual Studio Code, Colab, JSON, NLTK, JavaScript, D3.js, Chart.js, Git, FastApi, Render, Markdown, Machine Learning, ETL, EDA, implementación de KPIs, Scrum, Trello, almacenamiento en la nube y estoy próximo a rendir la certificación DP-100 de Microsoft Azure.
 
 ### Nivel de inglés de acuerdo a [EFSET.org](https://www.efset.org/es/):
 
